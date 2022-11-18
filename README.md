@@ -1,7 +1,7 @@
 [!MasterHead](https://www.talosdigital.com/wp-content/uploads/2020/09/ComputerProgramming_Image-1024x512.png)]
 <h1 align="center">Hi 👋, I'm Shivam Bhilarkar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.weblineindia.com/wp-content/uploads/2017/03/full-stack-development-by-weblineindia.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.netcomlearning.com/blogs/BlogImage.php?ID=104">
 
 - 🔭 I’m currently working on **Spring Framework**
 
