@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhilarkar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?size=626&ext=jpg">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?size=626&ext=jpg">
 
 - 🔭 I’m currently working on **Spring Framework**
 
@@ -39,7 +39,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambhilarkar&show_icons=true&locale=en&layout=compact" alt="shivambhilarkar" /></p>
-<br>
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivambhilarkar&show_icons=true&locale=en" alt="shivambhilarkar" /></p>
-<br>
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivambhilarkar&" alt="shivambhilarkar" /></p>
