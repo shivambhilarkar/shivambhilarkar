@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://shivambhilarkar.github.io/shivam_bhilarkar_portfolio/](https://shivambhilarkar.github.io/shivam_bhilarkar_portfolio/)
+- 👨‍💻 All of my projects are available at [https://shivambhilarkar.github.io/shivam_bhilarkar_portfolio/](https://github.com/shivambhilarkar/shivam.bhilarkar)
 
 - 💬 Ask me about **Data Structures, Algorithms, Java**
 
