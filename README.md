@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhilarkar</h1>
 
 
-<img align="center" alt="Coding" width="300" src="https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?size=626&ext=jpg">
+<img  alt="Coding" width="300" src="https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?size=626&ext=jpg">
 
 <!-- - 🔭 I’m currently working on **Spring Framework** 
 
